@@ -11,3 +11,7 @@
 
 ### Hint:
 * To handle the file uploading you should use the [multer](https://www.npmjs.com/package/multer) npm package.
+
+# My Solution
+
+solution link: https://wholesale-modem.glitch.me/
